@@ -1,6 +1,6 @@
 init
 
-add feature
+add feature #3
 
 ```
 git flow feature start feature_branch
